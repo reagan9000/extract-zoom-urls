@@ -1,5 +1,5 @@
 # extract-zoom-urls.py
-This repo contains a Python script I wrote to extract URLs from Zoom chat logs. 
+Python script to extract URLs from Zoom chat logs. 
 
 ## Installation
 
